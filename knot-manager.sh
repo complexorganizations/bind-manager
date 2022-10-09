@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # https://github.com/complexorganizations/knot-manager
 
-
 # Require script to be run as root
 function super-user-check() {
   if [ "${EUID}" -ne 0 ]; then
