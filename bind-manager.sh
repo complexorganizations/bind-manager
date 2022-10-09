@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# https://github.com/complexorganizations/knot-manager
+# https://github.com/complexorganizations/bind-manager
 
 # Require script to be run as root
 function super-user-check() {
